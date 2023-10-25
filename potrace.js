@@ -3,8 +3,8 @@ var fs = require('fs');
 var path = require('path');
 var ProgressBar = require('progress');
 
-var inputDir = 'K:/myfont/111598002_png/';
-var outputDir = 'K:/myfont/111598002_svg/';
+var inputDir = 'K:/myfont/your_png/';
+var outputDir = 'K:/myfont/svg_separate/';
 
 // 讀取資料夾中的所有檔案
 fs.readdir(inputDir, function(err, files) {

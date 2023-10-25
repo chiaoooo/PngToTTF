@@ -4,7 +4,7 @@ const path = require('path');
 const ProgressBar = require('progress');
 
 const fontName = 'MyFont';
-const outputSVGFontPath = 'out/fontpico.svg'; // 輸出SVG字體的路徑
+const outputSVGFontPath = 'final_font/fontpico.svg'; // 輸出SVG字體的路徑
 const inputFolder = 'pico'; // 包含SVG檔案的資料夾路徑
 
 const fontStream = new SVGIcons2SVGFontStream({

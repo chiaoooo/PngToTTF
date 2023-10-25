@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "input_folder=111598002_svg"
+set "input_folder=svg_separate"
 set "output_folder=pico"
 
 mkdir %output_folder%
