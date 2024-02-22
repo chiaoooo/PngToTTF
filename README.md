@@ -82,7 +82,8 @@ node readfile.js
 * 點選 Element ---> Font info，在這邊可以修改字體名稱
 ![](https://hackmd.io/_uploads/SkC_aRHGp.png)
 
-* 點選左邊那排的 OS/2 ---> Charsets ---> MS Code Pages 取消 Default 的打勾 ---> 選取 950 ---> ok！　![](https://hackmd.io/_uploads/SygB0CHGa.png)
+* 點選左邊那排的 OS/2 ---> Charsets ---> MS Code Pages 取消 Default 的打勾 ---> 選取 950 ---> ok！
+![](https://hackmd.io/_uploads/SygB0CHGa.png)
 
 * 點選 File ---> Generate Fonts 輸出成 ttf 檔（跳出訊息都選 yes / generate）
 ![](https://hackmd.io/_uploads/rJMZJJLGp.png)
