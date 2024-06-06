@@ -33,7 +33,7 @@ node potrace.js
 ```
 node run_pico.js
 ```
-
+跳error的話可以 pip install picosvg 重新安裝
 > 套件來源 https://github.com/googlefonts/picosvg
 
 這個步驟為了讓 svg 中的 fill-rule="evenodd" 不被下一個步驟的 svgicons2svgfont 忽略。
