@@ -15,13 +15,13 @@ mkdir final_font
 
 ```
 npm install
+pip install picosvg
 ```
 
 ### PNG ---> SVG
 
 ```
 node potrace.js
-pip install picosvg
 ```
 
 > 套件來源 https://www.npmjs.com/package/potrace
