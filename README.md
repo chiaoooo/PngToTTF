@@ -21,6 +21,7 @@ npm install
 
 ```
 node potrace.js
+pip install picosvg
 ```
 
 > 套件來源 https://www.npmjs.com/package/potrace
