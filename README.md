@@ -2,6 +2,7 @@
 
 將切割好的手寫字 png 檔打包成 ttf 檔流程 :dog:
 網址：https://github.com/chiaoooo/PngToTTF
+執行有遇到問題的話可以去置頂的 issue 看一下～
 
 ### 下載專案進行轉換
 
